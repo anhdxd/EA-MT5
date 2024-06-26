@@ -1,0 +1,9 @@
+# Directories
+.vscode/
+node_modules/
+
+# Files
+*.log
+*.swp
+*.swo
+.DS_Store
